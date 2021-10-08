@@ -1,1 +1,1 @@
-# react-infinite-scroller
+# Takeover by Codermak
